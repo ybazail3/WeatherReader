@@ -62,7 +62,6 @@ header {
 .todays-weather {
     display: flex;
     flex-direction: column;
-    display: hidden;
 }
 
 .weekForecast {
